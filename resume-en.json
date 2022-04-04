@@ -1,0 +1,156 @@
+{
+    "meta": {
+      "theme": "elegant"
+    },
+    "basics": {
+      "name": "Hugo Pauthier",
+      "label": "",
+      "picture": "https://avatars.githubusercontent.com/HugoPauthier",
+      "email": "hugo.pauthier@gmail.com",
+      "phone": "+33677437829",
+      "website": "",
+      "summary": "Currently in my final year of my apprenticeship. I am searching for a new job in software development.",
+      "location": {
+        "city": "Paris",
+        "countryCode": "FR"
+      },
+      "profiles": [
+        {
+          "network": "Github",
+          "username": "HugoPauthier",
+          "url": "https://github.com/HugoPauthier"
+        },
+        {
+          "network": "Linkedin",
+          "username": "Hugo Pauthier",
+          "url": "https://www.linkedin.com/in/hugopauthier/"
+        },
+        {
+          "network": "Behance",
+          "username": "Hugo Pauthier",
+          "url": "https://www.behance.net/hugopauthier"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Orange",
+        "location": "Arcueil",
+        "position": "Software developer",
+        "startDate": "2019-09-01",
+        "summary": "Within the IT System Department of Orange, I worked on the development of the new customer usages mediation application. I was able to follow the evolution of this large-scale project since its launch. This job let me discover the telecoms sector. I learned many new technologies, mainly web oriented. Finally, it gave me the opportunity to join a team of experienced developers working in an Agile environment.",
+        "highlights": [
+          "Stack : Node.js, Express, MongoDB, Angular",
+          "Enrichment of the conversion module",
+          "Addition of a new converter (in ASN1 format)",
+          "Configuration of new data feeds",
+          "Analysis and correction of bugs reported by functional qualifiers"
+        ]
+      },
+      {
+        "company": "Renault",
+        "location": "Guyancourt",
+        "position": "Software developer",
+        "website": "",
+        "startDate": "2019-04-01",
+        "endDate": "2019-06-01",
+        "summary": "Within the development team of immersive systems / virtual reality. I developed the GUI of a simulator piloting application.",
+        "highlights": [
+          "Stack : C++, Qt"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University Institute of Technology in Orléans",
+        "area": "Computer Science",
+        "studyType": "DUT",
+        "startDate": "2017-09-01",
+        "endDate": "2019-07-01"
+      },
+      {
+        "institution": "ECE Engineering School",
+        "area": "Information Technology",
+        "studyType": "Engineer Degree",
+        "startDate": "2019-09-01",
+        "endDate": "2022-08-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Front-end",
+        "level": "",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Angular"
+        ]
+      },
+      {
+        "name": "Back-end",
+        "level": "",
+        "keywords": [
+          "Node.js",
+          "JavaScript / TypeScript",
+          "Ruby"
+        ]
+      },
+      {
+        "name": "Autre",
+        "level": "",
+        "keywords": [
+          "Python",
+          "Java",
+          "C++"
+        ]
+      },
+      {
+        "name": "Practices",
+        "level": "",
+        "keywords": [
+          "TDD",
+          "eXtreme Programming"
+        ]
+      },
+      {
+        "name": "Operating System",
+        "level": "",
+        "keywords": [
+          "Unix",
+          "Windows"
+        ]
+      },
+      {
+        "name": "Graphic design",
+        "level": "",
+        "keywords": [
+          "Photoshop",
+          "Illustrator"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "French",
+        "fluency": "Native"
+      },
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Video games",
+        "keywords": [
+          "Competitive games"
+        ]
+      },
+      {
+        "name": "Music",
+        "keywords": [
+          "11 years of clarinet in an orchestra"
+        ]
+      }
+    ]
+  }
