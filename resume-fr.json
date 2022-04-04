@@ -1,0 +1,153 @@
+{
+    "meta": {
+      "theme": "elegant"
+    },
+    "basics": {
+        "name": "Hugo Pauthier",
+        "label": "",
+        "picture": "https://avatars.githubusercontent.com/HugoPauthier",
+        "email": "hugo.pauthier@gmail.com",
+        "phone": "+33677437829",
+        "website": "",
+        "summary": "",
+        "location": {
+            "city": "Paris",
+            "countryCode": "FR"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "HugoPauthier",
+                "url": "https://github.com/HugoPauthier"
+            },
+            {
+                "network": "Linkedin",
+                "username": "Hugo Pauthier",
+                "url": "https://www.linkedin.com/in/hugopauthier/"
+            },
+            {
+                "network": "Behance",
+                "username": "Hugo Pauthier",
+                "url": "https://www.behance.net/hugopauthier"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Orange",
+            "location": "Arcueil",
+            "position": "Développeur logiciel",
+            "startDate": "2019-09-01",
+            "summary": "Au sein de la DSI d’Orange, j’ai pu participer à la refonte complète de l’application de médiation des usages clients. J’ai pu suivre l’évolution de ce projet d’envergure depuis la phase de conception.\nJ’ai pu découvrir le domaine des télécoms. J’y ai appris de nombreuses technologies nouvelles, principalement orienté sur le web. Ce fut pour moi l’occasion de rejoindre une équipe de développeurs expérimentés travaillant en méthode agile SCRUM.",
+            "highlights": [
+                "Stack : Node.js, Express, MongoDB, Angular",
+                "Enrichissement du module de conversion",
+                "Ajout d’un convertisseur CRAE (au format ASN1)",
+                "Implémentation du paramétrage de nouveaux flux",
+                "Analyse et correction de bugs remontés par les qualifieurs fonctionnels."
+            ]
+        },
+        {
+            "company": "Renault",
+            "location": "Guyancourt",
+            "position": "Développeur logiciel",
+            "website": "",
+            "startDate": "2019-04-01",
+            "endDate": "2019-06-01",
+            "summary": "Au sein de l’équipe de développement des systèmes immersifs / réalité virtuelle. J'ai développé des IHM d’une application de pilotage des simulateurs.",
+            "highlights": [
+                "Stack : C++, Qt"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "IUT d'Orléans",
+            "area": "Informatique",
+            "studyType": "DUT",
+            "startDate": "2017-09-01",
+            "endDate": "2019-07-01"
+        },
+        {
+            "institution": "ECE",
+            "area": "Technologies de l'information",
+            "studyType": "Ecole d'ingénieur",
+            "startDate": "2019-09-01",
+            "endDate": "2022-08-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Front-end",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Angular"
+            ]
+        },
+        {
+            "name": "Back-end",
+            "level": "",
+            "keywords": [
+                "Node.js",
+                "JavaScript / TypeScript",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "Autre",
+            "level": "",
+            "keywords": [
+                "Python",
+                "Java",
+                "C++"
+            ]
+        },
+        {
+            "name": "Pratiques",
+            "level": "",
+            "keywords": [
+                "TDD",
+                "eXtreme Programming"
+            ]
+        },
+        {
+            "name": "Système d'exploitation",
+            "level": "",
+            "keywords": [
+                "Unix",
+                "Windows"
+            ]
+        },
+        {
+            "name": "Conception graphique",
+            "level": "",
+            "keywords": [
+                "Photoshop",
+                "Illustrator"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Français",
+            "fluency": "Natif"
+        },
+        {
+          "language": "Anglais",
+          "fluency": "Courant"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Jeux vidéo"
+        },
+        {
+            "name": "Musique",
+            "keywords": [
+                "11 ans de clarinette au sein d'un orchestre"
+            ]
+        }
+    ]
+  }
